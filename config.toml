@@ -2,6 +2,6 @@ baseURL = "https://freezexpert.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
-
+buildFuture = true
 [markup.goldmark.renderer]
 unsafe=true
