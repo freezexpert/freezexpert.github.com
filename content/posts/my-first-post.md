@@ -7,15 +7,8 @@ draft: false
 <div id="animated-example" class="animated bounce"><img src="https://i.imgur.com/EfX66iO.png"/></div>
 
 # Title
-sokfeoofk
-## Subtitle
 
-ajdifejniogw
-- ㄏㄏ
-    - jeiwfjeoiq
-- iwjefoiqejfqi
-    - niwejfiw
-- iefwjfoq
+## Subtitle
 
 
 <div id="animated-example" class="animated bounce"><img src="https://i.imgur.com/EfX66iO.png"/></div>
